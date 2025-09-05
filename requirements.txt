@@ -1,5 +1,4 @@
 telebot
 requests
-telebot.types 
 ReplyKeyboardMarkup
 KeyboardButton
