@@ -1,4 +1,2 @@
 telebot
 requests
-ReplyKeyboardMarkup
-KeyboardButton
